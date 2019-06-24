@@ -1,0 +1,11 @@
+C:\Users\rajat\c#\new\language-basics-01\Tavisca.Bootcamp.LanguageBasics.Exercise1\bin\MCD\Debug\netcoreapp2.2\Tavisca.Bootcamp.LanguageBasics.Exercise1.deps.json
+C:\Users\rajat\c#\new\language-basics-01\Tavisca.Bootcamp.LanguageBasics.Exercise1\bin\MCD\Debug\netcoreapp2.2\Tavisca.Bootcamp.LanguageBasics.Exercise1.runtimeconfig.json
+C:\Users\rajat\c#\new\language-basics-01\Tavisca.Bootcamp.LanguageBasics.Exercise1\bin\MCD\Debug\netcoreapp2.2\Tavisca.Bootcamp.LanguageBasics.Exercise1.runtimeconfig.dev.json
+C:\Users\rajat\c#\new\language-basics-01\Tavisca.Bootcamp.LanguageBasics.Exercise1\bin\MCD\Debug\netcoreapp2.2\Tavisca.Bootcamp.LanguageBasics.Exercise1.dll
+C:\Users\rajat\c#\new\language-basics-01\Tavisca.Bootcamp.LanguageBasics.Exercise1\bin\MCD\Debug\netcoreapp2.2\Tavisca.Bootcamp.LanguageBasics.Exercise1.pdb
+C:\Users\rajat\c#\new\language-basics-01\Tavisca.Bootcamp.LanguageBasics.Exercise1\obj\MCD\Debug\netcoreapp2.2\Tavisca.Bootcamp.LanguageBasics.Exercise1.csprojAssemblyReference.cache
+C:\Users\rajat\c#\new\language-basics-01\Tavisca.Bootcamp.LanguageBasics.Exercise1\obj\MCD\Debug\netcoreapp2.2\Tavisca.Bootcamp.LanguageBasics.Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\rajat\c#\new\language-basics-01\Tavisca.Bootcamp.LanguageBasics.Exercise1\obj\MCD\Debug\netcoreapp2.2\Tavisca.Bootcamp.LanguageBasics.Exercise1.AssemblyInfoInputs.cache
+C:\Users\rajat\c#\new\language-basics-01\Tavisca.Bootcamp.LanguageBasics.Exercise1\obj\MCD\Debug\netcoreapp2.2\Tavisca.Bootcamp.LanguageBasics.Exercise1.AssemblyInfo.cs
+C:\Users\rajat\c#\new\language-basics-01\Tavisca.Bootcamp.LanguageBasics.Exercise1\obj\MCD\Debug\netcoreapp2.2\Tavisca.Bootcamp.LanguageBasics.Exercise1.dll
+C:\Users\rajat\c#\new\language-basics-01\Tavisca.Bootcamp.LanguageBasics.Exercise1\obj\MCD\Debug\netcoreapp2.2\Tavisca.Bootcamp.LanguageBasics.Exercise1.pdb
